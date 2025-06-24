@@ -4,8 +4,8 @@ This project analyzes customer churn behavior in the telecom industry, data prov
 
 - 📂 The dataset used in this project is available via Kaggle: \
  <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> Telco Customer Churn - BlastChar </a>
-- For part 1: \
+- For the SQL-based analysis (Part 1), see: \
 [Telco Customer Churn - SQL Project (Part 1)](https://github.com/DianaSCristensen/Telco-Customer-Churn-SQL-Project)
 
 
-Please note, this project is currently still in progress. 
+⚠️ Please note, this project is currently still in progress. 
