@@ -8,4 +8,4 @@ This project analyzes customer churn behavior in the telecom industry, data prov
 [Telco Customer Churn - SQL Project (Part 1)](https://github.com/DianaSCristensen/Telco-Customer-Churn-SQL-Project)
 
 
-⚠️ Please note, this project is currently still in progress. 
+⚠️ Please note: this project is still in progress.
